@@ -1,0 +1,56 @@
+html{
+    height: 100%;
+    background-image: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+}
+.main{
+    margin-top: 50px;
+    height: 500px;
+    width: 400px;
+    background-color: rgba(35, 28, 45, 0.899);  
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+}
+.topic{
+    padding-top: 50px;
+    text-align: center;
+    font: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+p{
+    color: white;
+}
+.Bill{
+    font-size: larger;
+    margin-left: 50px;
+}
+pre{
+    font:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif ;
+    color: white;
+}
+.khat{
+    display: inline-block;
+    padding: 20px;
+}
+input{
+    margin-left: 70px;
+}
+.text{
+    padding-left: 20px;
+    color: white;
+    font-size: x-large;
+}
+#id-dive{
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+}
+#id-divi{
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+}
